@@ -9,6 +9,8 @@ public class Principal {
 		
 		System.out.println(a1.getCurso());
 		
+		System.out.println ("hello world");
+		
 		System.out.println(a1.imprimirAluno());
 
 	}
